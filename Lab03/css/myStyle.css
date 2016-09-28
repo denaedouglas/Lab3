@@ -1,0 +1,27 @@
+center
+{
+    background-image: url(DAngelo2.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+p.bio
+{
+    font-size: 15pt;
+    color: white;
+}
+
+p.bio:hover
+{
+    color: red;
+}
+
+a
+{
+    color: orange;
+}
+
+a:hover
+{
+    color: red;
+}
